@@ -22,8 +22,7 @@ The only official sources are:
 -->
 
 <!-- no offical site warning -->
-> [!CAUTION]
-> We do **not** have a website. The only offical place to download Natro Macro is this repoistry and [discord.gg/natromacro][discord-link].
+This is a python port of natro macro just for funsies
 
 <div align="center">
 
@@ -40,11 +39,14 @@ The only official sources are:
 [![][discord-shield]][discord-link]
 [![][roblox-shield]][roblox-link]
 <br>
-An open-source Bee Swarm Simulator macro written in AutoHotkey!<br>
+All credits to the natro macro team!
+This entire port is written in python
+still a work in progress<br>
 </div>
 
 
 <a name="installation"><h2>🛠️ Installation</h2></a>
+This is the real natro macro link
 
 1. Download `Natro_Macro_v#.#.#.zip` from the [latest release][latest-release-link]
 2. Open `Natro_Macro_v#.#.#` and double-click the folder inside
